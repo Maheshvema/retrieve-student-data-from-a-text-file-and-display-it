@@ -1,0 +1,5 @@
+Rainbow School Student Data
+Student:1 Name:Mahesh MarksGained-79%
+studnet:2 Name:Pavani MarksGained-89%
+studnet:3 Name:Mukesh MarksGained-85%
+student:4 Name:Kumar  MarksGained-75%

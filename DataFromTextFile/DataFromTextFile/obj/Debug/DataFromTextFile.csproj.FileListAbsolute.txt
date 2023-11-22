@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project\DataFromTextFile\DataFromTextFile\bin\Debug\DataFromTextFile.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project\DataFromTextFile\DataFromTextFile\bin\Debug\DataFromTextFile.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project\DataFromTextFile\DataFromTextFile\bin\Debug\DataFromTextFile.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project\DataFromTextFile\DataFromTextFile\obj\Debug\DataFromTextFile.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project\DataFromTextFile\DataFromTextFile\obj\Debug\DataFromTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project\DataFromTextFile\DataFromTextFile\obj\Debug\DataFromTextFile.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Project\DataFromTextFile\DataFromTextFile\obj\Debug\DataFromTextFile.pdb
